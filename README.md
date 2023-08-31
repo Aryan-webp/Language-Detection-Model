@@ -23,4 +23,4 @@ Try it yourself: [C'mon](https://language-detection-by-aryan.streamlit.app/)
 
 Busy right now..?? Don't wanna visit some dark themed webpage..??
 
-[Click Me...](Screenshot3.png)
+<img alt="screenshot" src="Screenshot3.png">
